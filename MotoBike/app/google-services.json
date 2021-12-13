@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361788645717",
+    "project_id": "motobikel",
+    "storage_bucket": "motobikel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361788645717:android:3ea7a3fe54e180b516cfdc",
+        "android_client_info": {
+          "package_name": "com.example.motobike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361788645717-9h54sarvkd98crafaqdc0p2bvdbni3bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuEWIkoanAexJndRuKeo0Fc3w2i5F5g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361788645717-9h54sarvkd98crafaqdc0p2bvdbni3bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
